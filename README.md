@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola!, soy Enrique Lujan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/Enrique0401"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2333A1FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniería+de+Sistemas;Desarrollador+Full-Stack;Entusiasta+de+Cloud+y+DevOps;Certificado+en+Ciberseguridad;Automatización+de+Procesos"></a>
+  <a href="https://github.com/Enrique0401"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2333A1FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniería+de+Sistemas+e+informática;Desarrollador+Full-Stack;Entusiasta+de+Cloud+y+DevOps;Certificado+en+Ciberseguridad;Automatización+de+Procesos"></a>
 </p>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
